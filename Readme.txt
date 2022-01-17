@@ -1,5 +1,4 @@
 
-== Agora Appbuilder ==
 
 
 Instructions to run the project:
